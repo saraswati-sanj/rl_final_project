@@ -1,0 +1,361 @@
+item_id,name,category,subcategory,color,secondary_color,style,occasion,season,formality,pattern,material,price,gender,comfort_score,versatility_score,popularity_score,trend_score,image_placeholder
+TOP_001,Slate Denim Shirt,top,t_shirt,navy,sky_blue,athleisure,office|college|travel,winter,1,floral,chiffon,450,male,0.75,0.43,0.79,0.54,assets/top/TOP_001.svg
+TOP_002,Forest Green Oversized Cotton T-Shirt,top,kurti,dusty_rose,grey,streetwear,party|formal|office|semi_formal|festive,monsoon|all,1,geometric,rayon,1850,unisex,0.84,0.69,0.98,0.5,assets/top/TOP_002.svg
+TOP_003,Coral Sleeveless Linen Top,top,top,indigo,burnt_orange,streetwear,college|casual|semi_formal,monsoon|winter,1,abstract,knit,1250,female,0.86,0.38,0.49,0.95,assets/top/TOP_003.svg
+TOP_004,Coral Casual Henley,top,t_shirt,coral,slate,festive,date|festive|formal,winter,3,solid,chiffon,1200,unisex,0.73,0.37,0.94,0.65,assets/top/TOP_004.svg
+TOP_005,Coral Wrap Blouse,top,blouse,sage_green,wine,minimalist,office|formal|beach|semi_formal|party,winter|summer,4,block_print,canvas,2050,male,0.64,0.74,0.38,0.7,assets/top/TOP_005.svg
+TOP_006,Navy Peplum Top,top,kurti,slate,grey,festive,travel|formal|beach|casual|party,monsoon,3,animal_print,canvas,1400,unisex,0.68,0.73,0.91,0.41,assets/top/TOP_006.svg
+TOP_007,Rust Striped Crew Neck Tee,top,top,sage_green,,festive,office|party|beach,summer|all,3,abstract,velvet,300,male,0.73,0.38,0.7,0.26,assets/top/TOP_007.svg
+TOP_008,Indigo Cold Shoulder Top,top,kurti,olive,burnt_orange,festive,beach|date|travel,monsoon,2,animal_print,silk,2050,male,0.79,0.41,0.38,0.38,assets/top/TOP_008.svg
+TOP_009,Wine Cold Shoulder Top,top,blouse,royal_blue,navy,casual,casual|college|beach,monsoon,1,embroidered,chiffon,1650,male,0.74,0.51,0.92,0.66,assets/top/TOP_009.svg
+TOP_010,Mustard Graphic Print Tee,top,shirt,lavender,cream,athleisure,beach|festive,summer,1,animal_print,denim,2200,female,0.75,0.23,0.43,0.63,assets/top/TOP_010.svg
+TOP_011,Olive Denim Shirt,top,shirt,grey,white,festive,college|date|travel,winter,1,animal_print,leather,350,female,0.6,0.45,0.93,0.33,assets/top/TOP_011.svg
+TOP_012,Forest Green Tube Top,top,t_shirt,maroon,white,preppy,travel|date|office|semi_formal|beach,summer,3,tie_dye,velvet,550,female,0.76,0.72,0.41,0.97,assets/top/TOP_012.svg
+TOP_013,Navy Sleeveless Linen Top,top,t_shirt,wine,coral,casual,festive|college|semi_formal,monsoon|summer,4,abstract,linen,650,male,0.83,0.45,0.75,0.57,assets/top/TOP_013.svg
+TOP_014,Cream Sleeveless Linen Top,top,t_shirt,rust,forest_green,formal,travel|semi_formal,monsoon,1,geometric,denim,1750,male,0.71,0.33,0.51,0.99,assets/top/TOP_014.svg
+TOP_015,Tan Cold Shoulder Top,top,top,grey,beige,festive,office|formal,winter|monsoon,3,abstract,velvet,950,male,0.78,0.31,0.65,0.4,assets/top/TOP_015.svg
+TOP_016,Coral Off-Shoulder Top,top,t_shirt,indigo,beige,minimalist,casual|party,summer|all,4,stripes,georgette,950,male,0.73,0.41,0.71,0.32,assets/top/TOP_016.svg
+TOP_017,Burnt Orange Tank Top,top,shirt,indigo,sage_green,athleisure,semi_formal|beach|college|party,winter,2,animal_print,polyester,950,male,0.67,0.59,0.85,0.53,assets/top/TOP_017.svg
+TOP_018,Olive Peter Pan Collar Top,top,shirt,cream,lavender,minimalist,casual|date|semi_formal|travel|festive,winter,2,animal_print,denim,1250,female,0.7,0.74,0.84,0.48,assets/top/TOP_018.svg
+TOP_019,Tan Cold Shoulder Top,top,top,olive,sky_blue,minimalist,college|formal,monsoon|all,1,abstract,jersey,450,female,0.89,0.37,0.57,0.66,assets/top/TOP_019.svg
+TOP_020,Blush Off-Shoulder Top,top,blouse,tan,dusty_rose,preppy,party|festive|college,monsoon|all,1,animal_print,cotton,1600,male,0.89,0.39,0.39,0.54,assets/top/TOP_020.svg
+TOP_021,Slate Casual Henley,top,kurti,mustard,,preppy,travel|casual|formal|beach|college,all|monsoon,4,floral,velvet,1600,unisex,0.79,0.73,0.82,0.73,assets/top/TOP_021.svg
+TOP_022,Tan Ribbed Knit Top,top,blouse,royal_blue,,semi_formal,semi_formal|formal,winter,1,embroidered,jersey,900,unisex,0.88,0.31,0.7,0.77,assets/top/TOP_022.svg
+TOP_023,Teal Mandarin Collar Kurta,top,kurti,royal_blue,olive,festive,college|festive,summer,1,embroidered,silk,2200,female,0.83,0.29,0.99,0.68,assets/top/TOP_023.svg
+TOP_024,Slate Embroidered Kurti,top,kurti,royal_blue,tan,minimalist,office|date|gym|formal|festive,monsoon,4,embroidered,suede,2450,unisex,0.67,0.76,0.54,0.91,assets/top/TOP_024.svg
+TOP_025,Beige Mandarin Collar Kurta,top,t_shirt,mustard,dusty_rose,festive,semi_formal|college|festive,winter,4,animal_print,canvas,2200,male,0.72,0.42,0.79,0.89,assets/top/TOP_025.svg
+TOP_026,Charcoal Oversized Cotton T-Shirt,top,top,charcoal,royal_blue,minimalist,festive|beach|travel|semi_formal,all,4,abstract,knit,2100,female,0.89,0.68,0.94,0.98,assets/top/TOP_026.svg
+TOP_027,Teal Halter Neck Top,top,top,beige,charcoal,formal,beach|festive,monsoon|summer,3,embroidered,cotton,500,male,0.88,0.36,0.49,0.96,assets/top/TOP_027.svg
+TOP_028,Navy Wrap Blouse,top,kurti,coral,navy,casual,party|semi_formal,summer,2,tie_dye,cotton,450,female,0.87,0.35,0.38,0.96,assets/top/TOP_028.svg
+TOP_029,Forest Green Sheer Overlay Top,top,kurti,indigo,olive,minimalist,gym|beach|college,all|winter,1,floral,knit,750,unisex,0.88,0.54,0.47,0.76,assets/top/TOP_029.svg
+TOP_030,Sky Blue Striped Crew Neck Tee,top,blouse,rust,tan,bohemian,travel|festive|party|college,summer|winter,4,abstract,polyester,350,unisex,0.72,0.54,0.81,0.97,assets/top/TOP_030.svg
+TOP_031,Sage Green Sheer Overlay Top,top,blouse,royal_blue,navy,minimalist,festive|gym|formal|party|beach,all|winter,2,solid,synthetic_leather,2150,unisex,0.62,0.75,0.45,0.84,assets/top/TOP_031.svg
+TOP_032,Sky Blue Peter Pan Collar Top,top,blouse,navy,forest_green,athleisure,travel|semi_formal,all|winter,2,solid,georgette,2300,female,0.71,0.26,0.47,0.73,assets/top/TOP_032.svg
+TOP_033,Sage Green Embroidered Kurti,top,blouse,burnt_orange,forest_green,semi_formal,travel|party|gym|date|office,summer|monsoon,2,block_print,knit,800,female,0.84,0.71,0.49,0.67,assets/top/TOP_033.svg
+TOP_034,Burnt Orange Striped Crew Neck Tee,top,top,black,slate,festive,semi_formal|party|office|formal,summer,3,block_print,wool,800,unisex,0.8,0.51,0.91,0.59,assets/top/TOP_034.svg
+TOP_035,Burnt Orange Wrap Blouse,top,t_shirt,charcoal,grey,streetwear,party|office|casual|formal|festive,summer,4,checks,synthetic_leather,1950,unisex,0.61,0.73,0.36,0.4,assets/top/TOP_035.svg
+TOP_036,Sky Blue Sleeveless Linen Top,top,top,wine,coral,casual,date|beach|formal|festive|office,monsoon,2,stripes,chiffon,700,female,0.71,0.77,0.41,0.53,assets/top/TOP_036.svg
+TOP_037,Burnt Orange Slim Fit Polo,top,top,forest_green,,preppy,formal|date|college|semi_formal,winter,4,checks,chiffon,1100,female,0.77,0.5,0.42,0.45,assets/top/TOP_037.svg
+TOP_038,Cream Striped Crew Neck Tee,top,top,cream,navy,preppy,festive|formal|travel|date,monsoon|summer,4,stripes,leather,450,female,0.65,0.58,0.7,0.96,assets/top/TOP_038.svg
+TOP_039,White Sheer Overlay Top,top,blouse,mustard,tan,indo_western,travel|date|formal|office|beach,all|winter,4,abstract,rayon,650,unisex,0.86,0.66,0.79,0.43,assets/top/TOP_039.svg
+TOP_040,White Tube Top,top,kurti,rust,black,festive,formal|party|college|festive,winter,4,block_print,linen,2200,unisex,0.86,0.55,0.61,0.24,assets/top/TOP_040.svg
+TOP_041,Beige Chiffon Blouse,top,blouse,sage_green,black,festive,college|casual|semi_formal|office|date,summer,1,embroidered,leather,1950,unisex,0.61,0.65,0.95,0.43,assets/top/TOP_041.svg
+TOP_042,Charcoal Wrap Blouse,top,blouse,rust,indigo,formal,travel|office|festive|semi_formal|formal,monsoon|all,3,geometric,chiffon,600,female,0.72,0.71,0.71,1.0,assets/top/TOP_042.svg
+TOP_043,Cream Cold Shoulder Top,top,kurti,cream,dusty_rose,semi_formal,party|travel|gym|festive,all,4,solid,synthetic_leather,1300,male,0.6,0.57,0.87,0.51,assets/top/TOP_043.svg
+TOP_044,White Formal Oxford Shirt,top,shirt,rust,cream,casual,date|college,summer,4,embroidered,jersey,900,female,0.86,0.37,0.75,0.88,assets/top/TOP_044.svg
+TOP_045,Dusty Rose Ribbed Knit Top,top,top,royal_blue,tan,minimalist,gym|college,summer|monsoon,1,stripes,synthetic_leather,1250,female,0.55,0.35,0.32,0.46,assets/top/TOP_045.svg
+TOP_046,Lavender Tank Top,top,t_shirt,wine,blush,formal,semi_formal|travel|festive,all,2,tie_dye,suede,1000,female,0.65,0.47,0.46,0.71,assets/top/TOP_046.svg
+TOP_047,Tan Oversized Cotton T-Shirt,top,kurti,cream,lavender,preppy,beach|travel|office|college,all|winter,4,floral,leather,1500,female,0.64,0.51,0.57,0.49,assets/top/TOP_047.svg
+TOP_048,Burnt Orange Oversized Cotton T-Shirt,top,blouse,burnt_orange,,semi_formal,casual|gym|beach|date,monsoon,2,checks,canvas,1750,unisex,0.72,0.56,0.52,0.55,assets/top/TOP_048.svg
+TOP_049,Slate Formal Oxford Shirt,top,top,beige,,festive,party|festive|office|semi_formal,monsoon,3,embroidered,linen,1800,female,0.87,0.53,0.38,0.97,assets/top/TOP_049.svg
+TOP_050,Tan V-Neck Tunic,top,shirt,sage_green,grey,indo_western,college|festive|casual|formal,monsoon|summer,3,floral,canvas,1800,male,0.63,0.58,0.69,0.93,assets/top/TOP_050.svg
+TOP_051,Navy Ribbed Knit Top,top,shirt,white,navy,minimalist,beach|festive|college|office,winter,1,block_print,leather,2300,unisex,0.59,0.63,0.96,0.76,assets/top/TOP_051.svg
+TOP_052,Wine V-Neck Tunic,top,top,white,slate,bohemian,beach|college|date|festive|office,winter|all,4,stripes,silk,1200,female,0.8,0.73,0.55,0.52,assets/top/TOP_052.svg
+TOP_053,Cream Linen Button-Down Shirt,top,shirt,royal_blue,beige,preppy,casual|party,winter,1,floral,wool,1150,male,0.81,0.3,0.72,0.42,assets/top/TOP_053.svg
+TOP_054,Sage Green Denim Shirt,top,shirt,beige,black,bohemian,beach|casual,winter,3,geometric,rayon,1250,male,0.78,0.26,0.38,0.25,assets/top/TOP_054.svg
+TOP_055,Rust Halter Neck Top,top,kurti,coral,black,casual,travel|semi_formal|casual|formal|gym,summer|winter,4,embroidered,denim,2250,female,0.76,0.74,0.4,0.3,assets/top/TOP_055.svg
+TOP_056,Wine Cold Shoulder Top,top,top,sky_blue,mustard,streetwear,gym|travel|formal|date|beach,all|summer,2,animal_print,jersey,750,unisex,0.91,0.67,0.81,0.45,assets/top/TOP_056.svg
+TOP_057,Forest Green Tank Top,top,blouse,grey,indigo,bohemian,college|beach|gym|travel|semi_formal,summer|winter,1,abstract,silk,850,unisex,0.84,0.7,0.98,0.68,assets/top/TOP_057.svg
+TOP_058,Wine Embroidered Kurti,top,blouse,grey,teal,festive,beach|date|semi_formal,winter|all,1,block_print,wool,1800,male,0.79,0.42,0.79,0.22,assets/top/TOP_058.svg
+TOP_059,Indigo Chiffon Blouse,top,blouse,navy,olive,casual,casual|office|gym|festive,all|winter,2,abstract,jersey,650,unisex,0.87,0.65,0.84,0.65,assets/top/TOP_059.svg
+TOP_060,Beige Casual Henley,top,t_shirt,tan,mustard,indo_western,formal|date,winter|monsoon,4,stripes,polyester,2100,male,0.69,0.25,0.77,0.59,assets/top/TOP_060.svg
+TOP_061,Royal Blue Peplum Top,top,blouse,maroon,,formal,semi_formal|formal,summer|all,3,embroidered,polyester,1350,male,0.67,0.31,0.79,0.6,assets/top/TOP_061.svg
+TOP_062,Teal V-Neck Tunic,top,blouse,mustard,sky_blue,athleisure,casual|date|college|party|formal,all,3,solid,polyester,2000,male,0.67,0.73,0.62,0.75,assets/top/TOP_062.svg
+TOP_063,Mustard Striped Crew Neck Tee,top,blouse,burnt_orange,indigo,bohemian,gym|festive|travel|college|semi_formal,summer,3,block_print,chiffon,1200,male,0.74,0.65,0.84,0.48,assets/top/TOP_063.svg
+TOP_064,Grey Formal Oxford Shirt,top,shirt,indigo,,streetwear,office|gym|beach,all|monsoon,4,tie_dye,georgette,1000,male,0.77,0.42,0.41,0.25,assets/top/TOP_064.svg
+TOP_065,Burnt Orange Denim Shirt,top,kurti,cream,white,casual,travel|college|formal|date,summer,3,tie_dye,polyester,1800,unisex,0.7,0.63,0.85,0.92,assets/top/TOP_065.svg
+TOP_066,Coral Graphic Print Tee,top,kurti,dusty_rose,slate,streetwear,travel|office|casual|date|beach,winter,2,embroidered,jersey,2350,unisex,0.88,0.69,0.55,0.93,assets/top/TOP_066.svg
+TOP_067,Indigo Crop Top,top,kurti,burnt_orange,forest_green,preppy,college|party|beach|festive,winter,3,abstract,polyester,900,female,0.75,0.57,0.57,0.68,assets/top/TOP_067.svg
+TOP_068,Sage Green Peplum Top,top,t_shirt,coral,blush,athleisure,beach|travel|college,monsoon,3,geometric,jersey,2400,female,0.93,0.39,0.84,0.35,assets/top/TOP_068.svg
+TOP_069,Navy Chiffon Blouse,top,shirt,indigo,sky_blue,formal,beach|party,winter,2,tie_dye,denim,1850,male,0.74,0.28,0.56,0.78,assets/top/TOP_069.svg
+TOP_070,Burnt Orange Sheer Overlay Top,top,kurti,charcoal,maroon,bohemian,travel|semi_formal|formal,all|monsoon,4,block_print,leather,2100,unisex,0.65,0.44,0.86,0.31,assets/top/TOP_070.svg
+TOP_071,Coral Wrap Blouse,top,blouse,burnt_orange,navy,formal,travel|college,all,4,stripes,knit,1400,male,0.9,0.36,0.95,0.53,assets/top/TOP_071.svg
+TOP_072,Lavender Mandarin Collar Kurta,top,kurti,black,lavender,streetwear,party|semi_formal,summer,2,geometric,canvas,1650,unisex,0.7,0.24,0.79,0.56,assets/top/TOP_072.svg
+TOP_073,Black Denim Shirt,top,t_shirt,mustard,grey,minimalist,travel|gym|beach,summer,3,floral,wool,1250,male,0.79,0.52,0.34,0.87,assets/top/TOP_073.svg
+TOP_074,Sage Green Oversized Cotton T-Shirt,top,kurti,sky_blue,lavender,semi_formal,formal|festive|casual,monsoon,2,stripes,chiffon,2000,unisex,0.73,0.41,0.74,0.98,assets/top/TOP_074.svg
+TOP_075,Black Tank Top,top,blouse,white,teal,festive,semi_formal|college|party|office,all|monsoon,2,checks,linen,1700,unisex,0.81,0.57,0.62,0.43,assets/top/TOP_075.svg
+TOP_076,White Crop Top,top,t_shirt,coral,maroon,minimalist,travel|date|formal|casual|festive,monsoon|summer,1,abstract,velvet,1750,male,0.8,0.81,0.93,0.51,assets/top/TOP_076.svg
+TOP_077,Blush Wrap Blouse,top,shirt,sky_blue,olive,festive,college|festive|beach|gym,summer,3,abstract,knit,1500,female,0.85,0.56,0.6,0.75,assets/top/TOP_077.svg
+TOP_078,White V-Neck Tunic,top,blouse,rust,,formal,formal|casual|college|festive|office,summer|all,2,stripes,knit,450,female,0.9,0.72,0.57,0.65,assets/top/TOP_078.svg
+TOP_079,Tan Tube Top,top,top,teal,dusty_rose,minimalist,date|college|office|party,winter,1,embroidered,knit,1300,male,0.91,0.61,0.84,0.76,assets/top/TOP_079.svg
+TOP_080,Burnt Orange Peter Pan Collar Top,top,shirt,cream,olive,indo_western,college|office|beach,summer|monsoon,3,block_print,synthetic_leather,650,unisex,0.62,0.44,0.8,0.94,assets/top/TOP_080.svg
+TOP_081,Rust Mandarin Collar Kurta,top,shirt,black,teal,festive,office|semi_formal|date,summer,4,stripes,denim,1800,female,0.71,0.43,0.64,0.53,assets/top/TOP_081.svg
+TOP_082,Navy Formal Oxford Shirt,top,kurti,tan,rust,bohemian,date|beach,all,2,block_print,jersey,800,unisex,0.91,0.27,0.51,0.33,assets/top/TOP_082.svg
+TOP_083,Rust Chiffon Blouse,top,shirt,coral,burnt_orange,preppy,semi_formal|travel|formal|office,winter,1,checks,linen,2500,female,0.88,0.55,0.88,0.22,assets/top/TOP_083.svg
+TOP_084,Indigo Halter Neck Top,top,t_shirt,charcoal,tan,festive,gym|festive|casual,winter|monsoon,3,animal_print,georgette,1500,unisex,0.73,0.43,0.41,0.53,assets/top/TOP_084.svg
+TOP_085,Dusty Rose Sleeveless Linen Top,top,kurti,indigo,lavender,festive,party|beach|festive|office,all,3,stripes,silk,750,male,0.79,0.51,0.34,0.96,assets/top/TOP_085.svg
+TOP_086,Royal Blue Casual Henley,top,top,charcoal,burnt_orange,indo_western,semi_formal|office|date|travel,all|summer,1,floral,jersey,400,female,0.83,0.52,0.72,0.87,assets/top/TOP_086.svg
+TOP_087,Sage Green Oversized Cotton T-Shirt,top,kurti,white,mustard,casual,office|formal|party|festive|beach,summer|winter,3,block_print,denim,1100,female,0.75,0.74,0.99,0.74,assets/top/TOP_087.svg
+TOP_088,Grey Peplum Top,top,t_shirt,sky_blue,rust,athleisure,travel|party|office|semi_formal,summer,1,checks,knit,2350,male,0.9,0.55,0.4,0.91,assets/top/TOP_088.svg
+TOP_089,Sky Blue Crop Top,top,shirt,wine,burnt_orange,indo_western,gym|formal|party|date|travel,summer|winter,3,tie_dye,rayon,350,female,0.85,0.7,0.78,0.22,assets/top/TOP_089.svg
+TOP_090,Coral Sheer Overlay Top,top,kurti,olive,sage_green,preppy,gym|date,summer,2,tie_dye,chiffon,1850,female,0.71,0.27,0.59,0.53,assets/top/TOP_090.svg
+TOP_091,Rust Sheer Overlay Top,top,shirt,maroon,wine,bohemian,office|travel,winter|all,4,block_print,synthetic_leather,2250,female,0.58,0.29,0.91,0.74,assets/top/TOP_091.svg
+TOP_092,Charcoal Graphic Print Tee,top,blouse,indigo,burnt_orange,semi_formal,travel|formal|semi_formal|gym,monsoon|all,3,geometric,chiffon,2300,unisex,0.7,0.56,0.57,0.98,assets/top/TOP_092.svg
+TOP_093,Burnt Orange Slim Fit Polo,top,blouse,coral,forest_green,indo_western,party|date,monsoon|summer,2,stripes,velvet,1200,male,0.73,0.29,0.67,0.71,assets/top/TOP_093.svg
+TOP_094,Mustard Crop Top,top,t_shirt,black,wine,formal,beach|office,winter|all,4,abstract,synthetic_leather,1950,male,0.59,0.36,0.36,0.66,assets/top/TOP_094.svg
+TOP_095,Slate Slim Fit Polo,top,top,slate,burnt_orange,casual,office|casual|festive|date|college,monsoon,3,geometric,rayon,350,unisex,0.87,0.77,0.65,0.95,assets/top/TOP_095.svg
+TOP_096,Forest Green Graphic Print Tee,top,top,black,indigo,bohemian,office|date|formal|beach,all,2,animal_print,denim,1500,female,0.68,0.56,0.43,0.31,assets/top/TOP_096.svg
+TOP_097,Black Denim Shirt,top,blouse,burnt_orange,sky_blue,preppy,date|formal|party,winter|summer,3,stripes,canvas,350,male,0.66,0.4,0.65,0.92,assets/top/TOP_097.svg
+TOP_098,Grey Ribbed Knit Top,top,blouse,charcoal,beige,indo_western,gym|semi_formal|beach|office,winter|summer,4,tie_dye,velvet,1850,unisex,0.76,0.55,0.55,0.93,assets/top/TOP_098.svg
+TOP_099,Sage Green Embroidered Kurti,top,t_shirt,cream,grey,semi_formal,office|party|travel,summer|winter,1,checks,wool,2300,male,0.78,0.36,0.62,0.85,assets/top/TOP_099.svg
+TOP_100,Forest Green Oversized Cotton T-Shirt,top,t_shirt,lavender,slate,streetwear,casual|festive,summer|winter,1,animal_print,wool,550,female,0.81,0.3,0.98,0.72,assets/top/TOP_100.svg
+BOT_001,Teal A-Line Skirt,bottom,shorts,olive,wine,athleisure,college|travel|office|party|casual,summer,2,solid,canvas,2550,female,0.68,0.7,0.6,0.5,assets/bottom/BOT_001.svg
+BOT_002,Cream Midi Skirt,bottom,trousers,sky_blue,,casual,semi_formal|college|casual|festive,summer,2,tie_dye,silk,1400,male,0.79,0.64,0.91,0.4,assets/bottom/BOT_002.svg
+BOT_003,Cream Mom Jeans,bottom,jeans,burnt_orange,royal_blue,preppy,office|travel,winter|all,5,checks,wool,1700,female,0.77,0.25,0.69,0.67,assets/bottom/BOT_003.svg
+BOT_004,Tan Pencil Skirt,bottom,trousers,rust,dusty_rose,athleisure,party|festive,all|summer,2,block_print,synthetic_leather,2050,unisex,0.55,0.25,0.9,0.32,assets/bottom/BOT_004.svg
+BOT_005,Sage Green Pencil Skirt,bottom,shorts,maroon,lavender,streetwear,festive|semi_formal|formal,winter,3,solid,suede,2250,male,0.64,0.42,0.33,0.26,assets/bottom/BOT_005.svg
+BOT_006,Tan Bermuda Shorts,bottom,pants,maroon,indigo,streetwear,semi_formal|party|formal|casual|college,all,2,floral,wool,2350,unisex,0.81,0.67,0.67,0.49,assets/bottom/BOT_006.svg
+BOT_007,Rust Wrap Skirt,bottom,skirt,maroon,teal,bohemian,date|party,winter,1,solid,leather,2100,female,0.61,0.28,0.8,0.44,assets/bottom/BOT_007.svg
+BOT_008,Royal Blue Maxi Skirt,bottom,trousers,coral,indigo,indo_western,travel|party|formal|date|gym,winter|summer,2,block_print,chiffon,2300,female,0.71,0.72,0.99,0.97,assets/bottom/BOT_008.svg
+BOT_009,Navy Tapered Trousers,bottom,pants,coral,royal_blue,streetwear,festive|office,all,1,abstract,polyester,1000,male,0.71,0.29,0.73,0.59,assets/bottom/BOT_009.svg
+BOT_010,Black Bermuda Shorts,bottom,shorts,slate,forest_green,festive,casual|travel,winter|summer,1,stripes,suede,1550,male,0.62,0.28,0.48,0.48,assets/bottom/BOT_010.svg
+BOT_011,Lavender Maxi Skirt,bottom,shorts,coral,tan,casual,semi_formal|formal|college,all|monsoon,4,embroidered,leather,800,male,0.61,0.51,0.36,0.88,assets/bottom/BOT_011.svg
+BOT_012,Grey Denim Shorts,bottom,skirt,forest_green,white,streetwear,semi_formal|gym|date,winter,5,abstract,polyester,1550,unisex,0.75,0.42,0.83,0.77,assets/bottom/BOT_012.svg
+BOT_013,Burnt Orange Jogger Pants,bottom,shorts,slate,beige,streetwear,beach|travel|party|festive|date,summer,3,animal_print,chiffon,2450,male,0.77,0.67,0.84,0.96,assets/bottom/BOT_013.svg
+BOT_014,Black Wide Leg Trousers,bottom,shorts,olive,blush,preppy,date|semi_formal|party|festive|gym,winter|monsoon,1,stripes,georgette,1950,female,0.71,0.67,0.85,0.32,assets/bottom/BOT_014.svg
+BOT_015,Lavender Pleated Formal Trousers,bottom,shorts,lavender,,minimalist,formal|date,winter,2,animal_print,linen,800,female,0.86,0.37,0.37,0.27,assets/bottom/BOT_015.svg
+BOT_016,Sky Blue Culottes,bottom,pants,navy,indigo,festive,casual|formal|festive|travel|date,all,5,checks,jersey,1400,male,0.86,0.66,0.4,0.33,assets/bottom/BOT_016.svg
+BOT_017,Burnt Orange Wrap Skirt,bottom,skirt,cream,grey,formal,formal|semi_formal|date|gym,monsoon|all,1,animal_print,linen,1650,female,0.84,0.59,0.88,0.72,assets/bottom/BOT_017.svg
+BOT_018,Burnt Orange Mini Skirt,bottom,pants,slate,blush,indo_western,party|office|festive|beach|gym,all|winter,2,animal_print,wool,2750,male,0.74,0.69,0.71,0.64,assets/bottom/BOT_018.svg
+BOT_019,Slate A-Line Skirt,bottom,pants,coral,burnt_orange,semi_formal,formal|college|festive|date|gym,all|summer,2,embroidered,wool,1450,male,0.79,0.69,0.95,0.9,assets/bottom/BOT_019.svg
+BOT_020,White Midi Skirt,bottom,shorts,olive,tan,preppy,semi_formal|party,monsoon|winter,5,stripes,linen,600,unisex,0.81,0.24,0.82,0.65,assets/bottom/BOT_020.svg
+BOT_021,Cream Midi Skirt,bottom,pants,black,rust,streetwear,beach|gym|travel|office|date,summer,4,checks,canvas,1600,male,0.66,0.68,0.44,0.59,assets/bottom/BOT_021.svg
+BOT_022,Cream Pleated Midi Skirt,bottom,shorts,black,lavender,streetwear,college|formal|casual|beach,winter,2,abstract,leather,1050,male,0.65,0.52,0.58,0.35,assets/bottom/BOT_022.svg
+BOT_023,Black Pleated Midi Skirt,bottom,shorts,maroon,royal_blue,minimalist,gym|festive|beach|casual|party,winter,5,abstract,wool,650,female,0.75,0.74,0.77,0.59,assets/bottom/BOT_023.svg
+BOT_024,Teal Culottes,bottom,skirt,cream,coral,formal,party|beach,winter,5,abstract,canvas,1600,unisex,0.65,0.28,0.56,0.31,assets/bottom/BOT_024.svg
+BOT_025,Sky Blue Cargo Pants,bottom,shorts,olive,rust,minimalist,office|date|travel|beach|formal,all|monsoon,2,solid,canvas,950,female,0.73,0.78,0.44,0.51,assets/bottom/BOT_025.svg
+BOT_026,Coral Wrap Skirt,bottom,pants,wine,black,semi_formal,festive|date|gym|office|casual,winter|monsoon,1,geometric,suede,1600,unisex,0.68,0.69,0.84,0.6,assets/bottom/BOT_026.svg
+BOT_027,Wine Pleated Formal Trousers,bottom,pants,mustard,grey,semi_formal,travel|casual|date|semi_formal,monsoon|winter,1,stripes,georgette,1600,male,0.77,0.51,0.87,0.37,assets/bottom/BOT_027.svg
+BOT_028,Lavender Paper Bag Waist Pants,bottom,pants,maroon,,casual,gym|office|semi_formal,winter|all,3,geometric,suede,2750,unisex,0.66,0.53,0.66,0.92,assets/bottom/BOT_028.svg
+BOT_029,Indigo Pencil Skirt,bottom,jeans,beige,slate,bohemian,beach|office|gym|semi_formal,winter|monsoon,4,geometric,polyester,1400,male,0.69,0.5,0.86,0.82,assets/bottom/BOT_029.svg
+BOT_030,Slate Straight-Leg Trousers,bottom,shorts,cream,tan,bohemian,date|party|casual|college|gym,winter|all,5,floral,knit,650,unisex,0.85,0.71,0.54,0.66,assets/bottom/BOT_030.svg
+BOT_031,Dusty Rose Tapered Trousers,bottom,pants,black,beige,formal,college|date,all,4,floral,polyester,2200,female,0.74,0.3,0.91,0.9,assets/bottom/BOT_031.svg
+BOT_032,Lavender Straight-Leg Trousers,bottom,jeans,coral,burnt_orange,semi_formal,beach|office|casual|festive,summer,1,floral,linen,2150,unisex,0.81,0.55,0.66,0.56,assets/bottom/BOT_032.svg
+BOT_033,Dusty Rose Pleated Formal Trousers,bottom,jeans,teal,navy,streetwear,date|college|semi_formal,monsoon|summer,3,animal_print,suede,800,unisex,0.66,0.43,0.35,0.65,assets/bottom/BOT_033.svg
+BOT_034,Olive A-Line Skirt,bottom,pants,sky_blue,blush,indo_western,beach|office|festive,winter,1,stripes,knit,1300,unisex,0.86,0.4,0.85,0.4,assets/bottom/BOT_034.svg
+BOT_035,Sage Green Culottes,bottom,jeans,maroon,sage_green,preppy,beach|formal,monsoon|all,2,solid,velvet,2500,male,0.76,0.23,0.65,0.68,assets/bottom/BOT_035.svg
+BOT_036,Lavender Mini Skirt,bottom,pants,charcoal,,streetwear,gym|festive|party|office|beach,summer,5,geometric,silk,450,male,0.75,0.64,0.85,0.61,assets/bottom/BOT_036.svg
+BOT_037,Mustard Paper Bag Waist Pants,bottom,pants,sage_green,coral,formal,beach|travel,summer|monsoon,1,floral,canvas,1550,female,0.68,0.31,0.74,0.87,assets/bottom/BOT_037.svg
+BOT_038,Blush Pencil Skirt,bottom,jeans,mustard,grey,indo_western,semi_formal|college,monsoon,5,checks,chiffon,2900,female,0.69,0.24,0.31,0.6,assets/bottom/BOT_038.svg
+BOT_039,Rust Pleated Midi Skirt,bottom,skirt,slate,grey,casual,party|office|formal,summer|winter,4,tie_dye,georgette,1750,unisex,0.73,0.49,0.34,0.89,assets/bottom/BOT_039.svg
+BOT_040,Olive Straight-Leg Trousers,bottom,trousers,black,navy,casual,semi_formal|travel,monsoon|winter,1,checks,denim,1400,female,0.76,0.39,0.69,0.93,assets/bottom/BOT_040.svg
+BOT_041,Dusty Rose Mom Jeans,bottom,shorts,rust,blush,casual,formal|college|party|gym,all,2,stripes,suede,1150,male,0.69,0.65,0.52,0.27,assets/bottom/BOT_041.svg
+BOT_042,Lavender Flared Jeans,bottom,shorts,wine,charcoal,semi_formal,gym|semi_formal|date|party,summer,2,animal_print,velvet,2650,male,0.73,0.53,0.89,0.9,assets/bottom/BOT_042.svg
+BOT_043,Indigo Tapered Trousers,bottom,skirt,mustard,rust,casual,college|semi_formal|travel|gym,summer,3,floral,canvas,1000,male,0.7,0.61,0.98,0.27,assets/bottom/BOT_043.svg
+BOT_044,Beige Wide Leg Trousers,bottom,jeans,white,cream,formal,gym|beach,monsoon|winter,3,abstract,canvas,1350,unisex,0.68,0.3,0.96,0.31,assets/bottom/BOT_044.svg
+BOT_045,Beige Pleated Formal Trousers,bottom,pants,lavender,,semi_formal,date|party|festive|college|formal,monsoon|summer,3,stripes,rayon,2250,male,0.85,0.66,0.79,0.68,assets/bottom/BOT_045.svg
+BOT_046,Beige Relaxed Fit Trousers,bottom,trousers,forest_green,olive,casual,festive|travel|casual|formal,summer,4,embroidered,chiffon,2050,female,0.77,0.59,0.31,0.86,assets/bottom/BOT_046.svg
+BOT_047,Maroon Maxi Skirt,bottom,trousers,forest_green,navy,casual,gym|beach,winter|summer,2,abstract,knit,650,male,0.82,0.35,0.42,0.66,assets/bottom/BOT_047.svg
+BOT_048,Black Maxi Skirt,bottom,shorts,forest_green,burnt_orange,indo_western,party|semi_formal|office,monsoon,1,embroidered,suede,1000,female,0.69,0.41,0.36,0.51,assets/bottom/BOT_048.svg
+BOT_049,Coral Denim Shorts,bottom,shorts,charcoal,wine,indo_western,festive|party,all|winter,5,checks,chiffon,1800,male,0.72,0.24,0.93,0.82,assets/bottom/BOT_049.svg
+BOT_050,Rust Midi Skirt,bottom,jeans,forest_green,wine,casual,college|semi_formal|gym,monsoon|summer,5,checks,chiffon,1300,female,0.75,0.52,0.79,0.93,assets/bottom/BOT_050.svg
+BOT_051,Blush Midi Skirt,bottom,jeans,olive,rust,casual,date|travel|formal,winter,1,solid,silk,750,unisex,0.75,0.53,0.44,0.3,assets/bottom/BOT_051.svg
+BOT_052,White Slim Fit Chinos,bottom,trousers,navy,teal,athleisure,college|travel|party,monsoon|winter,1,checks,silk,2800,female,0.82,0.4,0.75,0.59,assets/bottom/BOT_052.svg
+BOT_053,Blush Bermuda Shorts,bottom,skirt,teal,burnt_orange,minimalist,beach|gym|office,all,2,tie_dye,knit,900,male,0.84,0.49,0.87,0.69,assets/bottom/BOT_053.svg
+BOT_054,Charcoal Cargo Pants,bottom,pants,dusty_rose,olive,streetwear,semi_formal|party,monsoon,4,floral,jersey,1750,male,0.9,0.26,0.85,0.78,assets/bottom/BOT_054.svg
+BOT_055,Cream Pleated Midi Skirt,bottom,jeans,lavender,wine,athleisure,festive|date|beach,winter,4,embroidered,suede,800,female,0.68,0.36,0.31,0.41,assets/bottom/BOT_055.svg
+BOT_056,Dusty Rose Jogger Pants,bottom,jeans,dusty_rose,coral,preppy,college|travel|beach,winter|monsoon,1,animal_print,canvas,2400,male,0.64,0.39,0.98,0.53,assets/bottom/BOT_056.svg
+BOT_057,Slate Bermuda Shorts,bottom,pants,teal,sky_blue,festive,formal|semi_formal|college|casual,monsoon,2,solid,georgette,2400,unisex,0.69,0.58,0.74,0.58,assets/bottom/BOT_057.svg
+BOT_058,Maroon Jogger Pants,bottom,jeans,burnt_orange,,athleisure,date|college,summer|monsoon,4,block_print,velvet,2350,male,0.73,0.31,0.56,0.56,assets/bottom/BOT_058.svg
+BOT_059,Cream Straight-Leg Trousers,bottom,skirt,navy,blush,bohemian,gym|casual|office|college,summer,4,animal_print,chiffon,2600,female,0.79,0.56,0.96,0.66,assets/bottom/BOT_059.svg
+BOT_060,Burnt Orange Relaxed Fit Trousers,bottom,trousers,rust,,preppy,travel|gym,all,2,checks,canvas,2950,female,0.73,0.3,0.39,0.54,assets/bottom/BOT_060.svg
+BOT_061,Coral Cargo Pants,bottom,shorts,sage_green,dusty_rose,minimalist,college|beach|festive|travel,all,4,stripes,georgette,2550,male,0.69,0.65,0.71,0.97,assets/bottom/BOT_061.svg
+BOT_062,Wine Athletic Shorts,bottom,jeans,teal,tan,indo_western,travel|party|festive|formal,summer|all,5,geometric,denim,2750,male,0.68,0.56,0.79,0.23,assets/bottom/BOT_062.svg
+BOT_063,Royal Blue High-Waist Jeans,bottom,skirt,burnt_orange,forest_green,indo_western,party|casual|beach|formal,monsoon,2,embroidered,synthetic_leather,800,unisex,0.56,0.54,0.75,0.35,assets/bottom/BOT_063.svg
+BOT_064,Slate Wrap Skirt,bottom,trousers,navy,dusty_rose,festive,travel|office,winter,2,floral,knit,2050,female,0.9,0.25,0.62,0.93,assets/bottom/BOT_064.svg
+BOT_065,Lavender A-Line Skirt,bottom,trousers,royal_blue,teal,indo_western,beach|casual,all,4,tie_dye,canvas,2850,female,0.66,0.31,0.48,0.86,assets/bottom/BOT_065.svg
+BOT_066,Black Maxi Skirt,bottom,jeans,coral,royal_blue,semi_formal,gym|semi_formal|beach,summer,4,embroidered,polyester,1500,female,0.71,0.42,0.31,0.4,assets/bottom/BOT_066.svg
+BOT_067,Blush Wide Leg Trousers,bottom,skirt,cream,burnt_orange,festive,festive|party|date|formal|college,summer,4,block_print,georgette,2950,unisex,0.74,0.69,0.5,0.75,assets/bottom/BOT_067.svg
+BOT_068,Dusty Rose Straight-Leg Trousers,bottom,shorts,rust,,semi_formal,formal|beach|semi_formal|office,monsoon|all,5,checks,jersey,650,male,0.9,0.6,0.48,0.53,assets/bottom/BOT_068.svg
+BOT_069,White Dhoti Pants,bottom,shorts,rust,burnt_orange,formal,semi_formal|travel|date|party,summer|winter,2,checks,wool,2700,unisex,0.8,0.6,0.94,0.96,assets/bottom/BOT_069.svg
+BOT_070,Navy Mom Jeans,bottom,skirt,lavender,forest_green,preppy,formal|festive|party,all,4,solid,knit,1600,unisex,0.87,0.38,0.38,0.74,assets/bottom/BOT_070.svg
+BOT_071,Mustard High-Waist Jeans,bottom,pants,wine,cream,formal,semi_formal|party|festive,all,2,abstract,silk,1700,female,0.78,0.41,0.62,0.37,assets/bottom/BOT_071.svg
+BOT_072,Indigo Jogger Pants,bottom,trousers,mustard,tan,athleisure,office|gym,all|summer,4,solid,synthetic_leather,2050,unisex,0.6,0.32,0.92,0.81,assets/bottom/BOT_072.svg
+BOT_073,Black Tapered Trousers,bottom,pants,beige,grey,athleisure,semi_formal|party|formal,winter|summer,5,solid,cotton,2450,male,0.94,0.4,0.66,0.62,assets/bottom/BOT_073.svg
+BOT_074,Beige Mini Skirt,bottom,shorts,royal_blue,forest_green,formal,semi_formal|office|festive|casual,summer,1,abstract,synthetic_leather,1250,unisex,0.57,0.61,0.84,0.7,assets/bottom/BOT_074.svg
+BOT_075,Tan Pleated Formal Trousers,bottom,pants,cream,teal,streetwear,college|festive,winter|summer,3,solid,cotton,2650,male,0.89,0.23,0.66,0.7,assets/bottom/BOT_075.svg
+BOT_076,Grey Denim Shorts,bottom,trousers,sky_blue,maroon,minimalist,college|beach|date|semi_formal,all|winter,2,checks,denim,2550,female,0.72,0.69,0.78,0.58,assets/bottom/BOT_076.svg
+BOT_077,Black Tapered Trousers,bottom,trousers,beige,navy,festive,gym|date,winter|all,1,geometric,linen,700,male,0.85,0.23,0.42,0.23,assets/bottom/BOT_077.svg
+BOT_078,Tan Mini Skirt,bottom,skirt,black,olive,formal,college|casual,monsoon|all,3,stripes,suede,1750,female,0.68,0.29,0.58,0.97,assets/bottom/BOT_078.svg
+BOT_079,Blush Wrap Skirt,bottom,skirt,olive,grey,athleisure,college|office|casual,winter|monsoon,4,animal_print,suede,2800,female,0.66,0.45,0.92,0.78,assets/bottom/BOT_079.svg
+BOT_080,Charcoal Pleated Formal Trousers,bottom,trousers,blush,tan,festive,casual|college|formal|party|beach,monsoon,5,block_print,suede,2750,female,0.64,0.7,0.64,0.73,assets/bottom/BOT_080.svg
+BOT_081,Sage Green Culottes,bottom,shorts,rust,charcoal,indo_western,beach|office,monsoon|summer,1,abstract,polyester,1100,male,0.66,0.24,0.75,0.52,assets/bottom/BOT_081.svg
+BOT_082,Cream A-Line Skirt,bottom,trousers,dusty_rose,grey,indo_western,date|beach,all|summer,1,block_print,leather,450,male,0.63,0.3,0.97,0.71,assets/bottom/BOT_082.svg
+BOT_083,Maroon Wide Leg Trousers,bottom,pants,dusty_rose,wine,preppy,party|casual|semi_formal|date,all|summer,4,stripes,leather,2850,unisex,0.55,0.53,0.74,0.84,assets/bottom/BOT_083.svg
+BOT_084,Lavender Paper Bag Waist Pants,bottom,pants,beige,slate,athleisure,office|date,winter,3,stripes,denim,850,unisex,0.69,0.31,0.43,0.47,assets/bottom/BOT_084.svg
+BOT_085,Coral Tapered Trousers,bottom,shorts,black,sage_green,casual,date|gym|travel|office|semi_formal,winter|monsoon,4,tie_dye,denim,2650,male,0.74,0.72,0.57,0.68,assets/bottom/BOT_085.svg
+BOT_086,Teal Pencil Skirt,bottom,skirt,beige,olive,athleisure,festive|party|formal|date,monsoon|all,5,block_print,chiffon,2850,unisex,0.71,0.56,0.5,0.48,assets/bottom/BOT_086.svg
+BOT_087,Coral Jogger Pants,bottom,trousers,charcoal,sky_blue,preppy,party|travel,all|summer,5,block_print,jersey,2100,unisex,0.83,0.24,0.77,0.36,assets/bottom/BOT_087.svg
+BOT_088,Tan Straight-Leg Trousers,bottom,trousers,indigo,sage_green,casual,formal|semi_formal,winter,4,block_print,silk,1850,female,0.77,0.38,0.86,0.43,assets/bottom/BOT_088.svg
+BOT_089,Teal Pencil Skirt,bottom,jeans,maroon,coral,indo_western,casual|formal,winter,3,geometric,jersey,1300,female,0.85,0.29,0.43,0.34,assets/bottom/BOT_089.svg
+BOT_090,Teal High-Waist Jeans,bottom,pants,wine,forest_green,casual,travel|formal|office|beach,summer,4,checks,suede,1750,male,0.66,0.65,0.74,0.87,assets/bottom/BOT_090.svg
+BOT_091,Wine Bermuda Shorts,bottom,skirt,royal_blue,olive,festive,party|travel,all,5,block_print,knit,700,female,0.83,0.24,0.45,0.47,assets/bottom/BOT_091.svg
+BOT_092,Maroon Athletic Shorts,bottom,skirt,cream,royal_blue,preppy,college|party,monsoon,2,animal_print,synthetic_leather,2950,female,0.57,0.28,0.5,0.93,assets/bottom/BOT_092.svg
+BOT_093,Rust A-Line Skirt,bottom,skirt,dusty_rose,sage_green,streetwear,formal|semi_formal,summer,2,floral,synthetic_leather,800,unisex,0.62,0.27,0.37,0.63,assets/bottom/BOT_093.svg
+BOT_094,Navy Pleated Midi Skirt,bottom,shorts,white,grey,streetwear,date|party,summer|monsoon,2,floral,silk,600,unisex,0.79,0.27,0.58,0.45,assets/bottom/BOT_094.svg
+BOT_095,Grey Bermuda Shorts,bottom,shorts,blush,navy,bohemian,gym|casual,monsoon|all,1,stripes,cotton,2450,unisex,0.93,0.27,0.58,0.73,assets/bottom/BOT_095.svg
+BOT_096,Sage Green Mom Jeans,bottom,shorts,slate,coral,bohemian,travel|formal|office|gym|party,summer,5,solid,silk,450,male,0.81,0.67,0.68,0.27,assets/bottom/BOT_096.svg
+BOT_097,Slate Pleated Midi Skirt,bottom,trousers,olive,maroon,semi_formal,festive|travel|office,summer,3,checks,knit,2900,unisex,0.91,0.45,1.0,0.57,assets/bottom/BOT_097.svg
+BOT_098,Burnt Orange Tapered Trousers,bottom,pants,lavender,beige,semi_formal,college|semi_formal|date|party,winter,3,abstract,linen,800,male,0.85,0.56,0.51,0.67,assets/bottom/BOT_098.svg
+BOT_099,Lavender Mini Skirt,bottom,pants,royal_blue,slate,athleisure,casual|party|semi_formal,monsoon,3,embroidered,suede,1550,unisex,0.64,0.44,0.64,0.29,assets/bottom/BOT_099.svg
+BOT_100,Forest Green Cargo Pants,bottom,pants,rust,tan,casual,beach|college|gym|casual,winter|summer,5,block_print,wool,2800,male,0.78,0.68,0.63,0.82,assets/bottom/BOT_100.svg
+DRE_001,Teal Shift Dress,dress,mini_dress,navy,mustard,bohemian,date|travel|gym,winter,2,block_print,velvet,2750,female,0.75,0.38,0.96,0.73,assets/dress/DRE_001.svg
+DRE_002,Slate Floral Midi Dress,dress,maxi_dress,navy,burnt_orange,bohemian,casual|semi_formal|date|gym,monsoon,2,animal_print,synthetic_leather,1650,unisex,0.62,0.58,0.33,0.72,assets/dress/DRE_002.svg
+DRE_003,Blush Tiered Ruffle Dress,dress,midi_dress,coral,teal,bohemian,gym|travel|office|festive,all|summer,2,block_print,georgette,3100,unisex,0.72,0.58,0.64,0.59,assets/dress/DRE_003.svg
+DRE_004,Rust Pleated Dress,dress,midi_dress,beige,maroon,formal,office|semi_formal|college|formal|travel,all,2,abstract,silk,2200,female,0.8,0.73,0.45,0.33,assets/dress/DRE_004.svg
+DRE_005,Black Shift Dress,dress,kurta,beige,tan,festive,gym|beach|office,winter,3,geometric,polyester,850,female,0.7,0.4,0.98,0.71,assets/dress/DRE_005.svg
+DRE_006,Navy Shift Dress,dress,mini_dress,beige,,preppy,date|office|semi_formal|festive|formal,winter|monsoon,3,abstract,leather,3850,unisex,0.61,0.64,0.56,0.31,assets/dress/DRE_006.svg
+DRE_007,Maroon Tiered Ruffle Dress,dress,midi_dress,charcoal,coral,preppy,gym|college|office,all,2,checks,suede,850,female,0.69,0.44,0.75,0.62,assets/dress/DRE_007.svg
+DRE_008,White Floral Midi Dress,dress,mini_dress,wine,,preppy,date|festive|party,monsoon,5,embroidered,suede,1100,female,0.69,0.37,0.72,0.63,assets/dress/DRE_008.svg
+DRE_009,Maroon Maxi Wrap Dress,dress,mini_dress,teal,tan,semi_formal,travel|casual,monsoon|summer,4,checks,cotton,3500,unisex,0.92,0.25,0.9,0.54,assets/dress/DRE_009.svg
+DRE_010,Sky Blue Shirt Dress,dress,mini_dress,charcoal,olive,bohemian,festive|travel|gym,monsoon|all,5,abstract,canvas,3000,unisex,0.7,0.44,0.76,0.8,assets/dress/DRE_010.svg
+DRE_011,Blush Bodycon Dress,dress,kurta,sage_green,coral,casual,travel|festive|party,summer,5,checks,denim,1350,unisex,0.76,0.48,0.34,0.38,assets/dress/DRE_011.svg
+DRE_012,Sky Blue Maxi Wrap Dress,dress,midi_dress,olive,tan,indo_western,gym|travel|formal|casual|festive,monsoon,2,floral,canvas,2500,female,0.71,0.68,0.79,0.69,assets/dress/DRE_012.svg
+DRE_013,Lavender Shift Dress,dress,midi_dress,lavender,blush,athleisure,college|formal|festive,summer,3,stripes,cotton,2350,unisex,0.92,0.42,0.71,0.48,assets/dress/DRE_013.svg
+DRE_014,Royal Blue Fit and Flare Dress,dress,mini_dress,mustard,sage_green,streetwear,festive|gym|casual|formal|college,monsoon|summer,2,block_print,wool,3000,unisex,0.82,0.71,0.7,0.76,assets/dress/DRE_014.svg
+DRE_015,Wine Blazer Dress,dress,kurta,grey,burnt_orange,streetwear,date|beach|casual|gym,monsoon,3,animal_print,chiffon,2250,unisex,0.74,0.5,0.88,0.4,assets/dress/DRE_015.svg
+DRE_016,Teal Linen Shirt Dress,dress,midi_dress,charcoal,dusty_rose,bohemian,travel|office,winter,4,embroidered,jersey,1600,female,0.85,0.25,0.49,0.38,assets/dress/DRE_016.svg
+DRE_017,Sky Blue Sundress,dress,maxi_dress,tan,blush,indo_western,college|beach,all,2,abstract,silk,3200,unisex,0.8,0.32,0.93,0.9,assets/dress/DRE_017.svg
+DRE_018,Olive Ethnic Kurta Dress,dress,kurta,mustard,rust,festive,semi_formal|gym|office|casual|formal,winter|all,4,stripes,georgette,850,unisex,0.71,0.63,0.77,0.5,assets/dress/DRE_018.svg
+DRE_019,Dusty Rose Sundress,dress,midi_dress,forest_green,rust,preppy,travel|formal|semi_formal,all,4,animal_print,georgette,2100,female,0.72,0.43,0.56,0.52,assets/dress/DRE_019.svg
+DRE_020,Olive Fit and Flare Dress,dress,kurta,sage_green,mustard,athleisure,college|formal|semi_formal,all,3,solid,silk,1500,female,0.79,0.37,0.93,0.7,assets/dress/DRE_020.svg
+DRE_021,Charcoal Shirt Dress,dress,mini_dress,blush,olive,casual,festive|college,summer|winter,4,abstract,georgette,1600,unisex,0.72,0.36,0.95,0.41,assets/dress/DRE_021.svg
+DRE_022,Mustard A-Line Midi Dress,dress,midi_dress,olive,,minimalist,gym|beach|travel,all|summer,4,animal_print,knit,2150,unisex,0.87,0.55,0.91,0.71,assets/dress/DRE_022.svg
+DRE_023,Mustard Linen Shirt Dress,dress,mini_dress,dusty_rose,royal_blue,bohemian,college|office,all|winter,4,embroidered,canvas,2000,unisex,0.7,0.27,0.62,0.33,assets/dress/DRE_023.svg
+DRE_024,Beige Floral Midi Dress,dress,midi_dress,grey,beige,streetwear,college|semi_formal|office|festive,all,2,block_print,chiffon,2650,female,0.7,0.56,0.36,0.95,assets/dress/DRE_024.svg
+DRE_025,Burnt Orange Shift Dress,dress,kurta,black,navy,bohemian,date|office|gym|travel,monsoon|all,5,embroidered,chiffon,2050,female,0.79,0.57,0.42,0.68,assets/dress/DRE_025.svg
+DRE_026,Rust Linen Shirt Dress,dress,kurta,cream,burnt_orange,bohemian,date|travel|semi_formal|college,monsoon,4,solid,velvet,2400,female,0.76,0.57,0.4,0.43,assets/dress/DRE_026.svg
+DRE_027,Blush Pleated Dress,dress,midi_dress,royal_blue,,casual,formal|casual|festive|beach|date,all,4,block_print,synthetic_leather,2950,unisex,0.57,0.73,0.82,0.51,assets/dress/DRE_027.svg
+DRE_028,Royal Blue Shirt Dress,dress,kurta,coral,indigo,festive,beach|semi_formal|travel|formal|office,summer,5,checks,linen,1800,female,0.83,0.7,0.73,0.42,assets/dress/DRE_028.svg
+DRE_029,Maroon Sundress,dress,kurta,olive,grey,minimalist,casual|travel|beach,summer|all,3,stripes,cotton,1800,female,0.85,0.48,0.59,0.83,assets/dress/DRE_029.svg
+DRE_030,Lavender Blazer Dress,dress,kurta,indigo,teal,streetwear,college|office|casual|formal,winter,5,geometric,polyester,2900,unisex,0.73,0.51,0.84,0.4,assets/dress/DRE_030.svg
+DRE_031,Royal Blue Floral Midi Dress,dress,kurta,tan,maroon,indo_western,date|college|travel,winter|monsoon,4,solid,polyester,2300,female,0.68,0.42,0.44,0.91,assets/dress/DRE_031.svg
+DRE_032,Grey Shift Dress,dress,maxi_dress,teal,,semi_formal,casual|office|formal|college,winter|all,2,stripes,suede,750,female,0.62,0.5,0.73,0.94,assets/dress/DRE_032.svg
+DRE_033,White Sundress,dress,midi_dress,royal_blue,lavender,festive,office|date,winter|summer,4,animal_print,silk,3950,unisex,0.82,0.25,0.33,0.77,assets/dress/DRE_033.svg
+DRE_034,Sage Green Floral Midi Dress,dress,mini_dress,lavender,dusty_rose,indo_western,gym|office|travel,winter,3,embroidered,synthetic_leather,1850,unisex,0.61,0.41,0.62,0.82,assets/dress/DRE_034.svg
+DRE_035,Slate Bodycon Dress,dress,kurta,tan,sage_green,athleisure,gym|semi_formal|party|college,monsoon,5,abstract,cotton,1500,unisex,0.91,0.51,0.67,0.25,assets/dress/DRE_035.svg
+DRE_036,Olive Asymmetric Hem Dress,dress,maxi_dress,grey,white,preppy,college|date|semi_formal,monsoon|summer,5,abstract,polyester,3350,female,0.71,0.37,0.95,0.37,assets/dress/DRE_036.svg
+DRE_037,Navy Blazer Dress,dress,kurta,sky_blue,forest_green,festive,travel|festive|party|casual,summer|all,2,block_print,polyester,850,female,0.66,0.52,0.57,0.35,assets/dress/DRE_037.svg
+DRE_038,Wine Linen Shirt Dress,dress,maxi_dress,tan,mustard,streetwear,college|gym|party|date|travel,monsoon|all,3,checks,rayon,1400,unisex,0.86,0.72,0.69,1.0,assets/dress/DRE_038.svg
+DRE_039,Mustard Ethnic Kurta Dress,dress,mini_dress,teal,,festive,gym|semi_formal|travel|beach,all|winter,4,animal_print,suede,3750,female,0.67,0.59,0.72,0.61,assets/dress/DRE_039.svg
+DRE_040,Black Shirt Dress,dress,mini_dress,sage_green,rust,festive,party|casual|formal,summer,3,embroidered,chiffon,3050,unisex,0.71,0.39,0.92,0.4,assets/dress/DRE_040.svg
+DRE_041,Burnt Orange A-Line Midi Dress,dress,mini_dress,olive,rust,preppy,college|party|date,all,4,stripes,canvas,1100,female,0.72,0.39,0.92,0.55,assets/dress/DRE_041.svg
+DRE_042,Indigo Shift Dress,dress,midi_dress,sage_green,sky_blue,formal,casual|formal|travel|beach|office,summer,3,animal_print,cotton,2050,unisex,0.93,0.74,0.36,0.55,assets/dress/DRE_042.svg
+DRE_043,Beige Bodycon Dress,dress,kurta,slate,white,festive,date|gym,all,4,block_print,jersey,2350,unisex,0.91,0.24,0.39,0.65,assets/dress/DRE_043.svg
+DRE_044,Teal Linen Shirt Dress,dress,kurta,indigo,mustard,bohemian,semi_formal|college|formal,all,2,animal_print,wool,3500,unisex,0.76,0.39,0.72,0.22,assets/dress/DRE_044.svg
+DRE_045,Olive Sundress,dress,mini_dress,maroon,blush,bohemian,date|casual|semi_formal,summer,2,floral,leather,1350,female,0.64,0.44,0.31,0.76,assets/dress/DRE_045.svg
+DRE_046,Burnt Orange Blazer Dress,dress,midi_dress,slate,sage_green,semi_formal,party|semi_formal,winter|monsoon,4,solid,synthetic_leather,1550,unisex,0.59,0.29,0.33,0.34,assets/dress/DRE_046.svg
+DRE_047,Maroon Ethnic Kurta Dress,dress,mini_dress,navy,mustard,minimalist,date|casual,summer,4,geometric,georgette,3400,unisex,0.7,0.36,0.98,0.28,assets/dress/DRE_047.svg
+DRE_048,Charcoal Asymmetric Hem Dress,dress,mini_dress,sage_green,slate,casual,semi_formal|travel|date,monsoon|winter,3,animal_print,linen,850,female,0.8,0.51,0.55,0.44,assets/dress/DRE_048.svg
+DRE_049,White Linen Shirt Dress,dress,mini_dress,dusty_rose,mustard,formal,casual|travel|formal|semi_formal|college,all,5,floral,georgette,1050,female,0.72,0.71,0.72,0.56,assets/dress/DRE_049.svg
+DRE_050,Maroon Linen Shirt Dress,dress,maxi_dress,beige,cream,formal,office|formal|travel,summer|monsoon,3,block_print,silk,3400,female,0.77,0.49,0.4,0.22,assets/dress/DRE_050.svg
+DRE_051,Mustard Slip Dress,dress,mini_dress,beige,maroon,casual,beach|formal|office|semi_formal|casual,winter,4,floral,velvet,3800,female,0.75,0.78,0.63,0.6,assets/dress/DRE_051.svg
+DRE_052,Blush Linen Shirt Dress,dress,kurta,beige,maroon,semi_formal,festive|date|gym,summer|winter,2,animal_print,knit,1600,female,0.89,0.46,0.83,0.25,assets/dress/DRE_052.svg
+DRE_053,Sky Blue Blazer Dress,dress,kurta,slate,teal,bohemian,semi_formal|festive|gym|casual|formal,all,2,embroidered,jersey,2300,female,0.92,0.66,0.68,0.99,assets/dress/DRE_053.svg
+DRE_054,Sage Green Slip Dress,dress,midi_dress,burnt_orange,,minimalist,formal|date|festive,monsoon|all,3,solid,polyester,2600,female,0.7,0.52,0.36,0.6,assets/dress/DRE_054.svg
+DRE_055,Indigo Fit and Flare Dress,dress,maxi_dress,cream,sky_blue,semi_formal,festive|party|date|casual|college,monsoon|all,2,checks,silk,2550,female,0.76,0.7,0.74,0.27,assets/dress/DRE_055.svg
+DRE_056,Slate Ethnic Kurta Dress,dress,kurta,wine,blush,formal,travel|festive|casual|office|date,summer,3,animal_print,rayon,1350,unisex,0.8,0.76,0.61,0.7,assets/dress/DRE_056.svg
+DRE_057,Beige Shift Dress,dress,midi_dress,sage_green,,casual,casual|date|gym|travel,winter,5,tie_dye,cotton,3200,unisex,0.9,0.62,0.72,0.21,assets/dress/DRE_057.svg
+DRE_058,Sky Blue Linen Shirt Dress,dress,mini_dress,white,tan,bohemian,office|beach,monsoon,3,abstract,wool,850,female,0.73,0.26,0.42,0.74,assets/dress/DRE_058.svg
+DRE_059,Cream Floral Midi Dress,dress,maxi_dress,dusty_rose,teal,athleisure,college|formal,monsoon,5,embroidered,knit,1000,female,0.83,0.31,0.53,0.53,assets/dress/DRE_059.svg
+DRE_060,Blush Shift Dress,dress,maxi_dress,navy,rust,preppy,gym|travel,monsoon|winter,4,block_print,polyester,3950,unisex,0.74,0.28,0.65,0.78,assets/dress/DRE_060.svg
+SHO_001,Olive Sports Sliders,shoes,boots,cream,tan,streetwear,semi_formal|casual|college|gym,all|summer,2,abstract,chiffon,3500,female,0.75,0.56,0.31,0.36,assets/shoes/SHO_001.svg
+SHO_002,Navy Flat Sandals,shoes,sandals,teal,indigo,preppy,casual|college|party|travel,winter,1,abstract,velvet,3000,female,0.8,0.54,0.63,0.23,assets/shoes/SHO_002.svg
+SHO_003,Beige Espadrilles,shoes,formal,slate,tan,bohemian,festive|casual|travel|formal|date,winter,5,tie_dye,jersey,2750,female,0.91,0.72,0.55,0.98,assets/shoes/SHO_003.svg
+SHO_004,Dusty Rose Ankle Boots,shoes,sandals,dusty_rose,slate,casual,office|gym|college|formal|party,all,4,floral,rayon,1600,male,0.82,0.81,0.45,0.44,assets/shoes/SHO_004.svg
+SHO_005,White Block Heel Pumps,shoes,sneakers,dusty_rose,rust,festive,travel|casual|date|office|college,summer,3,block_print,linen,1750,female,0.82,0.64,0.57,0.89,assets/shoes/SHO_005.svg
+SHO_006,Burnt Orange Chunky Sole Sneakers,shoes,sneakers,black,sky_blue,minimalist,date|casual|college|formal,winter|summer,2,geometric,linen,3100,male,0.85,0.67,0.77,0.42,assets/shoes/SHO_006.svg
+SHO_007,Grey White Canvas Sneakers,shoes,formal,dusty_rose,forest_green,formal,travel|party|beach,winter,3,stripes,denim,3400,female,0.73,0.44,0.61,0.3,assets/shoes/SHO_007.svg
+SHO_008,White Slip-On Loafers,shoes,boots,teal,olive,preppy,college|festive,monsoon|winter,4,floral,canvas,2950,unisex,0.73,0.3,0.63,0.31,assets/shoes/SHO_008.svg
+SHO_009,Grey Espadrilles,shoes,flats,sky_blue,forest_green,bohemian,date|semi_formal|gym|office|festive,monsoon|winter,2,embroidered,velvet,2100,female,0.72,0.64,0.64,0.88,assets/shoes/SHO_009.svg
+SHO_010,Sky Blue Kitten Heels,shoes,sandals,dusty_rose,wine,streetwear,festive|college,all|monsoon,3,animal_print,silk,3750,female,0.81,0.28,0.98,0.51,assets/shoes/SHO_010.svg
+SHO_011,Blush Kitten Heels,shoes,sandals,tan,blush,streetwear,gym|party|travel|semi_formal|college,summer|monsoon,5,tie_dye,suede,3550,male,0.63,0.64,0.61,0.45,assets/shoes/SHO_011.svg
+SHO_012,Sky Blue Slip-On Loafers,shoes,boots,beige,sky_blue,casual,date|casual|college|semi_formal,all,2,block_print,canvas,3600,male,0.67,0.63,0.44,0.75,assets/shoes/SHO_012.svg
+SHO_013,Wine Flat Sandals,shoes,sandals,beige,dusty_rose,casual,college|gym|casual|festive,summer,5,block_print,suede,2000,female,0.61,0.6,0.32,0.55,assets/shoes/SHO_013.svg
+SHO_014,Coral Platform Sneakers,shoes,heels,olive,rust,formal,festive|beach|travel|semi_formal|party,monsoon|winter,5,checks,canvas,1250,female,0.73,0.75,0.39,0.26,assets/shoes/SHO_014.svg
+SHO_015,Slate Ballet Flats,shoes,sneakers,cream,,preppy,college|office|festive,all,5,block_print,suede,2250,male,0.66,0.4,0.55,0.35,assets/shoes/SHO_015.svg
+SHO_016,Wine Ballet Flats,shoes,heels,white,sky_blue,indo_western,festive|travel|party|casual,all,3,stripes,chiffon,3400,male,0.76,0.55,0.9,0.8,assets/shoes/SHO_016.svg
+SHO_017,Rust Running Shoes,shoes,sandals,wine,burnt_orange,preppy,date|college|travel,all,3,embroidered,linen,700,female,0.86,0.39,0.55,0.98,assets/shoes/SHO_017.svg
+SHO_018,Olive Chunky Sole Sneakers,shoes,sandals,tan,burnt_orange,preppy,casual|date|office|beach,summer|all,3,block_print,velvet,600,female,0.8,0.52,0.39,0.42,assets/shoes/SHO_018.svg
+SHO_019,Slate Slip-On Loafers,shoes,sandals,olive,burnt_orange,semi_formal,beach|date|party,monsoon,2,stripes,rayon,2500,male,0.83,0.44,0.89,0.8,assets/shoes/SHO_019.svg
+SHO_020,Royal Blue Espadrilles,shoes,boots,coral,forest_green,streetwear,gym|party|casual,all|winter,2,geometric,rayon,700,female,0.84,0.43,0.67,0.5,assets/shoes/SHO_020.svg
+SHO_021,Charcoal Wedge Sandals,shoes,flats,dusty_rose,sage_green,casual,casual|formal|date|festive|party,all|monsoon,5,geometric,silk,900,female,0.78,0.79,0.48,0.67,assets/shoes/SHO_021.svg
+SHO_022,Slate Stiletto Heels,shoes,boots,tan,black,streetwear,beach|office|party|casual,summer,4,embroidered,wool,550,unisex,0.75,0.52,0.44,0.22,assets/shoes/SHO_022.svg
+SHO_023,Sky Blue Block Heel Pumps,shoes,sneakers,beige,mustard,preppy,college|gym,winter,2,geometric,denim,3800,male,0.72,0.32,0.75,0.94,assets/shoes/SHO_023.svg
+SHO_024,Blush Platform Sneakers,shoes,sandals,teal,mustard,bohemian,college|formal|casual,winter|all,3,stripes,georgette,750,female,0.78,0.38,0.57,0.72,assets/shoes/SHO_024.svg
+SHO_025,Sage Green Kolhapuri Sandals,shoes,sneakers,grey,white,streetwear,date|formal,all|summer,5,embroidered,wool,800,male,0.8,0.22,0.33,0.51,assets/shoes/SHO_025.svg
+SHO_026,Dusty Rose Ankle Boots,shoes,formal,royal_blue,black,athleisure,date|festive|gym|college|formal,monsoon,4,abstract,cotton,3300,unisex,0.89,0.7,0.97,0.27,assets/shoes/SHO_026.svg
+SHO_027,Navy Espadrilles,shoes,heels,teal,blush,semi_formal,office|travel|casual,monsoon,4,embroidered,velvet,1700,female,0.8,0.4,0.43,0.23,assets/shoes/SHO_027.svg
+SHO_028,Wine Stiletto Heels,shoes,sneakers,cream,black,casual,college|travel|formal|date|gym,summer|winter,1,stripes,synthetic_leather,1900,unisex,0.61,0.78,0.62,0.74,assets/shoes/SHO_028.svg
+SHO_029,Slate Kitten Heels,shoes,heels,charcoal,tan,casual,casual|office,winter,5,checks,chiffon,2450,male,0.71,0.31,0.52,0.83,assets/shoes/SHO_029.svg
+SHO_030,Olive Kitten Heels,shoes,boots,sky_blue,,preppy,college|date,all,1,abstract,linen,1400,unisex,0.83,0.32,0.7,0.31,assets/shoes/SHO_030.svg
+SHO_031,Wine Derby Shoes,shoes,formal,beige,,athleisure,college|formal,all,3,floral,jersey,1200,male,0.84,0.3,0.74,0.5,assets/shoes/SHO_031.svg
+SHO_032,Charcoal Running Shoes,shoes,formal,blush,coral,preppy,office|college,winter|summer,4,checks,cotton,1650,male,0.9,0.26,0.96,0.69,assets/shoes/SHO_032.svg
+SHO_033,Olive Ballet Flats,shoes,sneakers,maroon,grey,festive,party|festive|casual|semi_formal,winter|all,5,floral,linen,900,unisex,0.81,0.51,0.4,0.88,assets/shoes/SHO_033.svg
+SHO_034,Olive Derby Shoes,shoes,boots,burnt_orange,maroon,athleisure,beach|party,summer|all,3,solid,polyester,1550,female,0.67,0.23,0.66,0.26,assets/shoes/SHO_034.svg
+SHO_035,Cream Kitten Heels,shoes,formal,royal_blue,grey,semi_formal,semi_formal|party|beach|college|office,all,4,floral,jersey,3500,unisex,0.88,0.68,0.92,0.32,assets/shoes/SHO_035.svg
+SHO_036,Olive Ankle Boots,shoes,heels,forest_green,maroon,bohemian,date|semi_formal|party,monsoon,1,checks,knit,1000,female,0.91,0.4,0.42,0.47,assets/shoes/SHO_036.svg
+SHO_037,Olive Sports Sliders,shoes,sandals,charcoal,maroon,preppy,college|festive|travel,summer|monsoon,4,animal_print,rayon,2450,unisex,0.79,0.4,0.46,0.94,assets/shoes/SHO_037.svg
+SHO_038,Black Kolhapuri Sandals,shoes,formal,white,cream,festive,date|travel,all,4,embroidered,polyester,2100,unisex,0.66,0.3,0.79,0.53,assets/shoes/SHO_038.svg
+SHO_039,Lavender Flat Sandals,shoes,formal,tan,burnt_orange,formal,casual|date,all,4,embroidered,chiffon,3400,male,0.78,0.31,0.85,0.5,assets/shoes/SHO_039.svg
+SHO_040,Coral White Canvas Sneakers,shoes,boots,indigo,forest_green,preppy,party|travel|casual|formal|semi_formal,summer,5,tie_dye,linen,2700,unisex,0.87,0.64,0.96,0.74,assets/shoes/SHO_040.svg
+SHO_041,Teal Chelsea Boots,shoes,sneakers,olive,tan,festive,party|beach,winter,1,abstract,leather,3400,male,0.6,0.29,0.82,0.8,assets/shoes/SHO_041.svg
+SHO_042,Indigo Stiletto Heels,shoes,flats,white,grey,bohemian,formal|travel|festive|beach,summer|winter,4,block_print,jersey,1900,male,0.88,0.53,0.77,0.75,assets/shoes/SHO_042.svg
+SHO_043,Cream Running Shoes,shoes,sneakers,forest_green,grey,formal,office|formal|college|travel|date,summer,2,geometric,linen,2550,male,0.9,0.74,0.39,0.48,assets/shoes/SHO_043.svg
+SHO_044,Coral White Canvas Sneakers,shoes,boots,rust,tan,bohemian,college|casual|semi_formal,monsoon|winter,5,tie_dye,velvet,2200,unisex,0.76,0.42,0.93,0.45,assets/shoes/SHO_044.svg
+SHO_045,Charcoal Chelsea Boots,shoes,sandals,burnt_orange,charcoal,formal,office|party,winter|summer,2,checks,velvet,3050,male,0.73,0.28,0.52,0.3,assets/shoes/SHO_045.svg
+SHO_046,Olive Block Heel Pumps,shoes,sandals,sage_green,olive,festive,party|office|beach|date,all,1,embroidered,polyester,1750,female,0.74,0.59,0.41,0.98,assets/shoes/SHO_046.svg
+SHO_047,Dusty Rose Flat Sandals,shoes,heels,blush,grey,indo_western,gym|office|date|party,monsoon,2,solid,synthetic_leather,650,unisex,0.59,0.52,0.55,0.46,assets/shoes/SHO_047.svg
+SHO_048,Maroon Kitten Heels,shoes,heels,tan,blush,streetwear,semi_formal|casual|college|date,all,4,abstract,chiffon,2600,unisex,0.78,0.53,0.4,0.88,assets/shoes/SHO_048.svg
+SHO_049,Lavender White Canvas Sneakers,shoes,sandals,maroon,indigo,indo_western,party|formal|date|college,monsoon|summer,4,animal_print,velvet,3550,female,0.72,0.55,0.36,0.37,assets/shoes/SHO_049.svg
+SHO_050,Dusty Rose Running Shoes,shoes,boots,coral,forest_green,athleisure,casual|festive,winter|summer,5,checks,canvas,1200,unisex,0.66,0.27,0.88,0.44,assets/shoes/SHO_050.svg
+SHO_051,Charcoal Mules,shoes,heels,forest_green,dusty_rose,indo_western,casual|beach|office,winter|all,3,floral,leather,1000,female,0.56,0.39,1.0,0.25,assets/shoes/SHO_051.svg
+SHO_052,Wine Ballet Flats,shoes,flats,rust,indigo,preppy,beach|date|college|party,summer,3,checks,suede,550,female,0.65,0.56,0.55,0.24,assets/shoes/SHO_052.svg
+SHO_053,Coral Chelsea Boots,shoes,sandals,indigo,coral,formal,formal|travel|college|semi_formal,monsoon,1,abstract,polyester,3650,female,0.68,0.62,0.55,0.63,assets/shoes/SHO_053.svg
+SHO_054,Black Oxford Brogues,shoes,sandals,grey,royal_blue,formal,date|festive|party|office,summer,2,animal_print,velvet,2550,male,0.8,0.56,0.39,0.21,assets/shoes/SHO_054.svg
+SHO_055,Blush Chelsea Boots,shoes,sandals,burnt_orange,black,streetwear,gym|travel|party|office|beach,winter,2,geometric,silk,1400,female,0.77,0.73,0.6,0.81,assets/shoes/SHO_055.svg
+SHO_056,Black Ballet Flats,shoes,sneakers,white,,festive,semi_formal|college,summer|winter,1,solid,suede,2950,male,0.63,0.22,0.37,0.3,assets/shoes/SHO_056.svg
+SHO_057,Wine Block Heel Pumps,shoes,heels,wine,lavender,bohemian,casual|college|office|formal,summer,5,stripes,rayon,1150,male,0.82,0.57,0.97,0.34,assets/shoes/SHO_057.svg
+SHO_058,Slate Slip-On Loafers,shoes,heels,grey,maroon,bohemian,party|gym|office|date|beach,winter,4,animal_print,wool,2050,male,0.81,0.66,0.63,0.62,assets/shoes/SHO_058.svg
+SHO_059,Blush Flat Sandals,shoes,boots,grey,mustard,minimalist,party|date,all|summer,5,block_print,polyester,2350,female,0.68,0.41,0.43,0.26,assets/shoes/SHO_059.svg
+SHO_060,Lavender Derby Shoes,shoes,boots,tan,blush,streetwear,beach|college|festive|date|formal,all|monsoon,2,tie_dye,cotton,1000,unisex,0.92,0.72,0.42,0.49,assets/shoes/SHO_060.svg
+ACC_001,Maroon Jute Bag,accessory,bag,slate,charcoal,minimalist,semi_formal|festive,all|winter,5,embroidered,canvas,1300,female,0.73,0.37,0.4,0.56,assets/accessory/ACC_001.svg
+ACC_002,Charcoal Sunglasses,accessory,jewellery,navy,rust,casual,casual|college|beach,winter|all,4,tie_dye,chiffon,450,female,0.77,0.51,0.66,0.59,assets/accessory/ACC_002.svg
+ACC_003,Burnt Orange Sunglasses,accessory,belt,indigo,white,athleisure,travel|party|beach|casual,monsoon|winter,4,embroidered,synthetic_leather,350,male,0.53,0.51,0.76,0.82,assets/accessory/ACC_003.svg
+ACC_004,Mustard Canvas Tote Bag,accessory,bag,sage_green,olive,festive,date|college|beach|travel|semi_formal,all|monsoon,4,animal_print,velvet,200,female,0.79,0.66,0.34,0.67,assets/accessory/ACC_004.svg
+ACC_005,Lavender Denim Belt Bag,accessory,bag,lavender,cream,bohemian,festive|college|beach|party,winter,2,geometric,cotton,200,female,0.94,0.5,0.51,0.47,assets/accessory/ACC_005.svg
+ACC_006,Dusty Rose Gold Hoop Earrings,accessory,jewellery,blush,charcoal,preppy,gym|travel|festive|formal|casual,all|winter,3,tie_dye,leather,150,unisex,0.63,0.64,0.77,0.47,assets/accessory/ACC_006.svg
+ACC_007,Dusty Rose Crossbody Bag,accessory,scarf,sage_green,maroon,minimalist,festive|semi_formal|date|college,all|summer,1,tie_dye,velvet,650,unisex,0.78,0.65,0.71,0.42,assets/accessory/ACC_007.svg
+ACC_008,Charcoal Oxidised Jhumkas,accessory,scarf,mustard,blush,festive,college|formal|travel|gym,all|winter,2,tie_dye,wool,750,unisex,0.8,0.55,0.92,0.7,assets/accessory/ACC_008.svg
+ACC_009,Wine Sunglasses,accessory,scarf,maroon,teal,indo_western,formal|travel|festive|casual|beach,monsoon,2,animal_print,wool,400,male,0.76,0.71,0.35,0.36,assets/accessory/ACC_009.svg
+ACC_010,Burnt Orange Crossbody Bag,accessory,belt,beige,royal_blue,casual,festive|semi_formal|college,all|monsoon,3,animal_print,georgette,600,female,0.74,0.44,0.41,0.31,assets/accessory/ACC_010.svg
+ACC_011,Tan Anklet,accessory,hat,white,grey,bohemian,date|casual,all,3,abstract,rayon,1350,female,0.81,0.31,0.89,0.39,assets/accessory/ACC_011.svg
+ACC_012,Rust Leather Belt,accessory,scarf,wine,indigo,athleisure,college|semi_formal|beach|party|office,winter,4,stripes,georgette,600,unisex,0.7,0.66,0.59,0.89,assets/accessory/ACC_012.svg
+ACC_013,Sage Green Layered Chain Necklace,accessory,jewellery,forest_green,,formal,travel|festive|date|semi_formal,monsoon|summer,4,tie_dye,denim,850,female,0.75,0.61,0.96,0.75,assets/accessory/ACC_013.svg
+ACC_014,Sage Green Stud Earrings,accessory,bag,cream,teal,casual,beach|college|travel|semi_formal,summer|all,3,geometric,velvet,900,female,0.8,0.59,0.61,0.45,assets/accessory/ACC_014.svg
+ACC_015,Forest Green Beaded Bracelet,accessory,belt,olive,slate,minimalist,festive|party|beach|college|travel,all|monsoon,1,block_print,synthetic_leather,1150,male,0.58,0.73,0.34,0.71,assets/accessory/ACC_015.svg
+ACC_016,Beige Minimal Silver Necklace,accessory,belt,wine,navy,streetwear,beach|formal|party,all,2,abstract,canvas,400,unisex,0.68,0.43,0.48,0.75,assets/accessory/ACC_016.svg
+ACC_017,Maroon Beaded Bracelet,accessory,hat,black,white,festive,office|festive|gym|semi_formal,summer,5,embroidered,suede,1400,female,0.63,0.58,0.33,0.69,assets/accessory/ACC_017.svg
+ACC_018,Beige Beaded Bracelet,accessory,scarf,blush,rust,athleisure,gym|college|casual,winter,4,floral,knit,1050,female,0.91,0.44,0.49,0.8,assets/accessory/ACC_018.svg
+ACC_019,Mustard Backpack,accessory,belt,mustard,,formal,beach|semi_formal|festive|office,winter|monsoon,3,embroidered,wool,150,male,0.77,0.61,0.62,0.21,assets/accessory/ACC_019.svg
+ACC_020,Blush Stud Earrings,accessory,bag,sage_green,white,casual,festive|gym|formal|college|casual,monsoon|all,2,tie_dye,wool,800,female,0.73,0.76,0.57,0.98,assets/accessory/ACC_020.svg
+ACC_021,Sage Green Gold Hoop Earrings,accessory,hat,cream,beige,streetwear,office|travel|date|party,winter|all,5,stripes,rayon,750,male,0.77,0.51,0.91,0.87,assets/accessory/ACC_021.svg
+ACC_022,Burnt Orange Baseball Cap,accessory,hat,indigo,beige,festive,festive|office|party|date,winter,4,checks,georgette,1450,female,0.7,0.5,0.48,0.76,assets/accessory/ACC_022.svg
+ACC_023,Charcoal Gold Hoop Earrings,accessory,belt,grey,indigo,formal,travel|date|gym|beach,winter,3,geometric,leather,350,male,0.63,0.62,0.88,0.65,assets/accessory/ACC_023.svg
+ACC_024,Wine Minimal Silver Necklace,accessory,scarf,black,dusty_rose,streetwear,college|semi_formal|date|beach|office,monsoon,3,checks,rayon,900,male,0.78,0.71,0.76,0.56,assets/accessory/ACC_024.svg
+ACC_025,Tan Minimal Silver Necklace,accessory,hat,cream,dusty_rose,preppy,beach|gym,monsoon,2,abstract,jersey,350,unisex,0.9,0.28,0.72,0.27,assets/accessory/ACC_025.svg
+ACC_026,Royal Blue Stud Earrings,accessory,hat,teal,,athleisure,semi_formal|office,monsoon,2,embroidered,linen,700,male,0.87,0.31,0.93,0.68,assets/accessory/ACC_026.svg
+ACC_027,Grey Layered Chain Necklace,accessory,hat,sky_blue,mustard,streetwear,date|festive|beach|formal|travel,all,3,animal_print,wool,950,unisex,0.73,0.67,0.62,0.38,assets/accessory/ACC_027.svg
+ACC_028,Rust Watch,accessory,bag,burnt_orange,beige,formal,date|festive|college|beach,monsoon|all,2,solid,linen,700,female,0.89,0.6,0.66,0.53,assets/accessory/ACC_028.svg
+ACC_029,Slate Denim Belt Bag,accessory,belt,grey,indigo,indo_western,formal|gym|college|casual,summer|all,2,animal_print,georgette,450,unisex,0.71,0.57,0.83,0.56,assets/accessory/ACC_029.svg
+ACC_030,Olive Backpack,accessory,hat,tan,grey,athleisure,gym|formal,all,1,stripes,rayon,1200,female,0.79,0.27,0.78,0.9,assets/accessory/ACC_030.svg
+ACC_031,Charcoal Silk Scarf,accessory,scarf,maroon,grey,casual,formal|college|office|travel|casual,all,1,checks,knit,500,unisex,0.86,0.77,0.85,0.35,assets/accessory/ACC_031.svg
+ACC_032,Beige Sunglasses,accessory,hat,beige,indigo,indo_western,college|office,all,4,tie_dye,suede,1100,female,0.62,0.28,0.88,0.24,assets/accessory/ACC_032.svg
+ACC_033,Coral Oxidised Jhumkas,accessory,jewellery,charcoal,teal,indo_western,gym|beach|travel|formal|casual,winter|monsoon,5,solid,suede,1150,male,0.64,0.66,0.34,0.91,assets/accessory/ACC_033.svg
+ACC_034,Grey Sunglasses,accessory,belt,maroon,rust,bohemian,festive|casual|office|formal|party,monsoon,2,tie_dye,knit,1000,female,0.83,0.66,0.8,0.97,assets/accessory/ACC_034.svg
+ACC_035,Olive Jute Bag,accessory,hat,maroon,olive,preppy,college|date|office|travel,all|winter,1,floral,wool,1100,female,0.79,0.6,0.55,0.41,assets/accessory/ACC_035.svg
+ACC_036,Rust Gold Hoop Earrings,accessory,bag,sage_green,royal_blue,indo_western,festive|college|semi_formal|gym,summer|monsoon,3,geometric,linen,650,male,0.89,0.58,0.72,0.28,assets/accessory/ACC_036.svg
+ACC_037,Cream Leather Belt,accessory,jewellery,rust,grey,formal,travel|casual,monsoon,1,checks,denim,1400,female,0.74,0.35,0.65,0.9,assets/accessory/ACC_037.svg
+ACC_038,Lavender Statement Ring,accessory,bag,mustard,,casual,semi_formal|date,monsoon|all,4,checks,silk,600,unisex,0.78,0.37,0.59,0.7,assets/accessory/ACC_038.svg
+ACC_039,Indigo Watch,accessory,bag,mustard,charcoal,festive,office|festive|gym,all,3,checks,suede,1500,male,0.67,0.41,0.35,0.47,assets/accessory/ACC_039.svg
+ACC_040,Mustard Gold Hoop Earrings,accessory,belt,wine,white,festive,beach|office,monsoon|all,4,abstract,canvas,700,male,0.63,0.25,0.67,0.94,assets/accessory/ACC_040.svg

@@ -1,0 +1,56 @@
+"""
+FashionVerse — Experiment Config
+Reproducible config for all training runs.
+"""
+
+experiment:
+  seed: 42
+  total_timesteps: 50000
+  quick_timesteps: 5000
+  eval_episodes: 100
+
+ppo:
+  learning_rate: 0.0003
+  n_steps: 512
+  batch_size: 64
+  n_epochs: 10
+  gamma: 0.99
+  gae_lambda: 0.95
+  clip_range: 0.2
+  ent_coef: 0.01
+  net_arch: [256, 256]
+
+dqn:
+  learning_rate: 0.0001
+  buffer_size: 10000
+  learning_starts: 500
+  batch_size: 64
+  gamma: 0.99
+  target_update_interval: 500
+  exploration_fraction: 0.3
+  exploration_final_eps: 0.05
+
+reward_weights:
+  feedback_love: 10.0
+  feedback_like: 5.0
+  feedback_neutral: 0.0
+  feedback_skip: -2.0
+  feedback_dislike: -8.0
+  feedback_save: 7.0
+  feedback_purchase: 15.0
+  w_compatibility: 0.4
+  w_occasion: 0.3
+  w_budget: 0.2
+  w_diversity: 0.3
+  budget_violation_penalty: -8.0
+  poor_compat_penalty: -3.0
+  repeated_outfit_penalty: -2.0
+  use_diversity: true
+
+dataset:
+  n_tops: 100
+  n_bottoms: 100
+  n_dresses: 60
+  n_shoes: 60
+  n_accessories: 40
+  total: 360
