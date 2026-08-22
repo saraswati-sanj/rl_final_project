@@ -1,0 +1,35 @@
+# FashionVerse — Lightweight Deployment Requirements
+# PyTorch / SB3 / gymnasium are excluded:
+#   → The RL agent automatically falls back to rule-based OutfitGenerator
+#   → All other features (Gemini chat, feedback, analytics) work fully
+# Total RAM footprint: ~300-350 MB (fits Render free 512MB)
+
+# ── Web Framework ─────────────────────────────────────────────────────────────
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+python-multipart==0.0.9
+python-jose[cryptography]==3.3.0
+pydantic==2.8.2
+
+# ── Data / Science (lightweight) ─────────────────────────────────────────────
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.2
+
+# ── Database ──────────────────────────────────────────────────────────────────
+sqlalchemy==2.0.31
+aiosqlite==0.20.0
+
+# ── GenAI / NLP ───────────────────────────────────────────────────────────────
+openai==1.45.0
+httpx==0.27.2
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+python-dotenv==1.0.1
+pyyaml==6.0.2
+colorama==0.4.6
+tqdm==4.66.5
+
+# ── Plots / Analytics ─────────────────────────────────────────────────────────
+matplotlib==3.9.2
+seaborn==0.13.2
