@@ -1,6 +1,6 @@
 # ─────────────────────────────────────────────────────────────────────────────
 # FashionVerse — Dockerfile
-# Deploys to: Render (free tier), HF Spaces PRO, or any Docker host
+# Deploys to: Render (free tier) or any Docker host
 #
 # Strategy: uses requirements-deploy.txt (no PyTorch/SB3) so the image stays
 # under 400 MB RAM. The RL agent automatically falls back to rule-based
@@ -27,8 +27,11 @@ RUN pip install --no-cache-dir -r requirements-deploy.txt
 # ── Frontend: build React/Vite app ───────────────────────────────────────────
 COPY testrl102/FashionVerse/frontend/ ./frontend/
 WORKDIR /app/frontend
-# VITE_API_URL="" → relative same-origin calls to FastAPI
-RUN npm install && VITE_API_URL="" npm run build
+
+# VITE_API_URL="" baked in at build time → relative same-origin API calls
+ENV VITE_API_URL=""
+RUN npm install --legacy-peer-deps
+RUN ./node_modules/.bin/vite build
 
 # ── Copy the full FashionVerse project ───────────────────────────────────────
 WORKDIR /app
@@ -36,8 +39,9 @@ COPY testrl102/FashionVerse/ .
 
 # ── Runtime ──────────────────────────────────────────────────────────────────
 ENV PYTHONUNBUFFERED=1
-ENV PORT=7860
+# Render sets PORT automatically; default to 10000 which is Render's standard
+ENV PORT=10000
 
-EXPOSE 7860
+EXPOSE 10000
 
-CMD ["uvicorn", "backend.main:app", "--host", "0.0.0.0", "--port", "7860"]
+CMD uvicorn backend.main:app --host 0.0.0.0 --port ${PORT}
