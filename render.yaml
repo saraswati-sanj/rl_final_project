@@ -1,0 +1,33 @@
+services:
+  # ── Backend: FastAPI Web Service ─────────────────────────────────────────────
+  - type: web
+    name: fashionverse-backend
+    runtime: python
+    rootDir: testrl102/FashionVerse
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn backend.main:app --host 0.0.0.0 --port $PORT
+    plan: starter
+    envVars:
+      - key: LLM_API_KEY
+        sync: false          # Set this manually in Render dashboard
+      - key: LLM_BASE_URL
+        value: https://generativelanguage.googleapis.com/v1beta/openai/
+      - key: LLM_MODEL
+        value: gemini-1.5-flash
+      - key: PYTHON_VERSION
+        value: 3.11.9
+
+  # ── Frontend: React/Vite Static Site ─────────────────────────────────────────
+  - type: web
+    name: fashionverse-frontend
+    runtime: static
+    rootDir: testrl102/FashionVerse/frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: dist
+    envVars:
+      - key: VITE_API_URL
+        sync: false   # Set to your backend URL after first backend deploy
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
