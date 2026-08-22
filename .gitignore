@@ -36,8 +36,10 @@ Thumbs.db
 node_modules/
 npm-debug.log*
 
-# Vite build output
+# Vite build output (built inside Docker, never commit)
 testrl102/FashionVerse/frontend/dist/
+frontend/dist/
+dist/
 
 # Test cache
 .pytest_cache/

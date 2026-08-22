@@ -3,7 +3,9 @@
  * Handles communication with the FastAPI backend.
  */
 
-const BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:8000';
+// Production (Docker/HF Spaces): VITE_API_URL="" at build time → relative same-origin calls
+// Local dev: VITE_API_URL is undefined → falls back to http://localhost:8000
+const BASE_URL = import.meta.env.VITE_API_URL ?? 'http://localhost:8000';
 
 export async function sendMessage(message, userId = 'user_default', budget = 2500, gender = 'unisex') {
   const res = await fetch(`${BASE_URL}/chat`, {

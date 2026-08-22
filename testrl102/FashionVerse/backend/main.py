@@ -4,12 +4,14 @@ Adaptive AI Fashion Stylist Backend using Reinforcement Learning, GenAI, and 3D/
 """
 
 import os
+from pathlib import Path
 from dotenv import load_dotenv
 load_dotenv()  # Load .env file at startup
 
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
 
 from backend.database.database import init_db
 from backend.fashion.catalog import get_catalog
@@ -60,15 +62,36 @@ def startup_event():
     print(f"[FashionVerse] RL Agent initialized. Model loaded: {agent.get_status()['model_loaded']}")
 
 
-@app.get("/")
-def root():
-    return {
-        "name": "FashionVerse API",
-        "description": "Adaptive AI Fashion Stylist using Reinforcement Learning, GenAI and 3D/VR Try-On",
-        "status": "online",
-        "version": "1.0.0",
-        "docs_url": "/docs",
-    }
+# ── Serve React frontend (production Docker build) ───────────────────────────
+# frontend/dist is built inside the Docker container by the Dockerfile.
+# In local dev this dir doesn't exist, so Vite dev server handles the frontend.
+_FRONTEND_DIST = Path(__file__).parent.parent / "frontend" / "dist"
+
+if _FRONTEND_DIST.exists():
+    # Serve /assets/* (Vite JS/CSS bundles)
+    app.mount("/assets", StaticFiles(directory=str(_FRONTEND_DIST / "assets")), name="frontend-assets")
+
+    @app.get("/", include_in_schema=False)
+    def serve_index():
+        return FileResponse(str(_FRONTEND_DIST / "index.html"))
+
+    @app.get("/{full_path:path}", include_in_schema=False)
+    def serve_spa(full_path: str):
+        """Catch-all: serve existing static files or fall back to index.html (SPA routing)."""
+        file_path = _FRONTEND_DIST / full_path
+        if file_path.exists() and file_path.is_file():
+            return FileResponse(str(file_path))
+        return FileResponse(str(_FRONTEND_DIST / "index.html"))
+else:
+    @app.get("/")
+    def root():
+        return {
+            "name": "FashionVerse API",
+            "description": "Adaptive AI Fashion Stylist using Reinforcement Learning, GenAI and 3D/VR Try-On",
+            "status": "online",
+            "version": "1.0.0",
+            "docs_url": "/docs",
+        }
 
 
 @app.get("/rl-status")
